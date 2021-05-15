@@ -8,8 +8,8 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "dev": "parcel serve ./src/index.html -p 1337",
-    "build": "parcel build ./src/index.html"
+    "dev": "parcel serve ./public/index.html -p 1337",
+    "build": "parcel build ./public/index.html"
   },
   "browserslist": "> 0.2%",
   "devDependencies": {
