@@ -1,6 +1,6 @@
 {
   "name": "lilreact",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A lightweight React boilerplate written with Parcel bundler!",
   "main": "build/index.html",
   "repository": "https://github.com/briceduke/lilreact",
