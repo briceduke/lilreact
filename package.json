@@ -1,0 +1,22 @@
+{
+  "name": "lilreact",
+  "version": "0.0.1",
+  "description": "A lightweight React boilerplate written with Parcel bundler!",
+  "main": "build/index.html",
+  "repository": "https://github.com/briceduke/lilreact",
+  "author": "Brice Duke",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "parcel serve ./src/index.html -p 1337",
+    "build": "parcel build ./src/index.html"
+  },
+  "browserslist": "> 0.2%",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.2"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
