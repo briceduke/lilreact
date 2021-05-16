@@ -1,6 +1,6 @@
 {
-  "name": "lilreact",
-  "version": "1.1.0",
+  "name": "tiny-react",
+  "version": "1.1.1",
   "description": "A lightweight React boilerplate written with Parcel bundler!",
   "main": "build/index.html",
   "repository": "https://github.com/briceduke/lilreact",

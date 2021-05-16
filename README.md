@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to lilreact 👋</h1>
+<h1 align="center">Tiny React 💥</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="df" target="_blank">
@@ -8,9 +8,9 @@
 
 > A lightweight React boilerplate written with Parcel bundler!
 
-### 🏠 [Homepage](https://github.com/briceduke/lilreact)
+### 🏠 [Homepage](https://github.com/briceduke/tiny-react)
 
-### ✨ [Demo](https://lilreact.briceduke.tech)
+### ✨ [Demo](https://tinyreact.briceduke.tech)
 
 ## Install
 
@@ -41,7 +41,7 @@ yarn build
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/briceduke/lilreact/issues). You can also take a look at the [contributing guide](https://github.com/briceduke/lilreact/blob/main/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/briceduke/tiny-react/issues). You can also take a look at the [contributing guide](https://github.com/briceduke/tiny-react/blob/main/CONTRIBUTING.md).
 
 ## Show your support
 
@@ -50,7 +50,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2021 [Brice Duke](https://github.com/briceduke).<br />
-This project is [MIT](https://github.com/briceduke/lilreact/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/briceduke/tiny-react/blob/main/LICENSE) licensed.
 
 ---
 
